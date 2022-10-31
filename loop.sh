@@ -11,3 +11,4 @@ do
 		-s) sleep 0.05;;
 	esac
 done
+echo Done!
