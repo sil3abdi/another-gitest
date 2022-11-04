@@ -1,2 +1,2 @@
 another-gitest
-is such a great sentence that is must be a song!!
+is such a great sentence that it must be a song!!
