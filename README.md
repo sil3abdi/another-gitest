@@ -7,5 +7,5 @@ I can't even finish school
 missed my mom and left too soon
 his father was a fireman
 who fought fires so violent
-I think I bored my therepis
+I think I bored my therepist
 while playing him my violin
